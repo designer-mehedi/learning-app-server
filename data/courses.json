@@ -2,37 +2,31 @@
     {
         "id": "01",
         "title": "Digital Marketing",
-        "img": "image01",
-        "body": "This is digital marketing course" 
+        "img": "https://co-offiz.com/wp-content/uploads/2018/11/digitalmarketing850.jpg"
     },
     {
         "id": "02",
         "title": "Content Writing",
-        "img": "image02",
-        "body": "This is digital marketing course" 
+        "img": "https://i.ytimg.com/vi/ydyfLWUPxz8/maxresdefault.jpg" 
     },
     {
         "id": "03",
         "title": "Ethical Hacking",
-        "img": "image03",
-        "body": "This is digital marketing course" 
+        "img": "https://t4.ftcdn.net/jpg/05/05/39/59/360_F_505395943_l1jwu722NBoI73CfNJDb1C0Hw4lqGsfP.jpg" 
     },
     {
         "id": "04",
         "title": "Youtube Marketing",
-        "img": "image04",
-        "body": "This is digital marketing course" 
+        "img": "https://www.delhicourses.in/blog/wp-content/uploads/2020/06/YouTube-Marketing.jpg"
     },
     {
         "id": "05",
         "title": "Search Engine Optimization",
-        "img": "image05",
-        "body": "This is digital marketing course" 
+        "img": "https://www.oberlo.com/media/1603954182-seo-article-header.png?fit=max&fm=jpg&w=1824"
     },
     {
         "id": "06",
         "title": "Wordpress Customization",
-        "img": "image06",
-        "body": "This is digital marketing course" 
+        "img": "https://www.wordpresswebsite.in/uploads/wordpress-theme-customization.png"
     }
 ]
